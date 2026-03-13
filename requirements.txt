@@ -1,0 +1,37 @@
+streamlit
+python-dotenv
+
+# LangChain - exact versions
+langchain==1.2.12
+langchain-community==0.4.1
+langchain-core==1.2.18
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langgraph==1.1.1
+
+# Vector DB
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# URL loaders - Project 1
+unstructured
+newspaper3k
+lxml_html_clean
+bs4
+requests
+
+# Search tools - Project 2
+wikipedia
+duckduckgo-search
+ddgs
+
+# SQL - Project 3
+sqlalchemy
+pandas
+tabulate
+
+# Utils
+numpy
